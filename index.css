@@ -1,7 +1,9 @@
 body {
     margin: 0;
-    background-color: #C4B5FD;
+    background-image: url("bball.jpg");
     text-align: center;
+    justify-content: center;
+    background-size: cover;
 }
 
 .score{
